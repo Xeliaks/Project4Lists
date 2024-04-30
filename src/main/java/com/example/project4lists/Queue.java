@@ -12,8 +12,8 @@ public class Queue<T> extends DoublyLinkedList<T> {
         if (isEmpty()) {
             throw new NoSuchElementException("Queue is empty");
         }
-        T removedElement = getLast();
-        removeLast();
+        T removedElement = getFirst();
+        removeFirst();
         return removedElement;
     }
 
@@ -21,7 +21,7 @@ public class Queue<T> extends DoublyLinkedList<T> {
         if (isEmpty()) {
             throw new NoSuchElementException("Queue is empty");
         }
-        return getLast();
+        return getFirst();
     }
 
     public boolean isEmpty() {
