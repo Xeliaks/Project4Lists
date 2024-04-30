@@ -9,10 +9,8 @@ l
 <src/main/resources/com/example/project4lists/hello-view.fxml,b\a\ba9582ce76c36f9dd561edf18c97ceccc6eb84a7
 b
 2src/main/java/com/example/project4lists/Part0.java,d\f\df2dc034031ff6da32e62558eb916fcb0695bef0
-b
-2src/main/java/com/example/project4lists/Part1.java,4\4\44623aafa9c5b8a9112113107e7b3604ee589b57
 g
-7src/main/java/com/example/project4lists/LinkedList.java,5\d\5d3e4d39306c74d4e9dc96d0f4a4d6fce201c6d5
+7src/main/java/com/example/project4lists/LinkedList.java,5/d/5d3e4d39306c74d4e9dc96d0f4a4d6fce201c6d5
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
@@ -46,3 +44,9 @@ U
 %.mvn/wrapper/maven-wrapper.properties,3\2\32e074f71d16c1e88ac02aa83592ca6ad1fd98a8
 w
 G.idea/sonarlint/issuestore/b/a/baf8051c766a2e13642e89145b790cb605b7242b,b\a\ba552f4bb929bdee6209849d0b5c48a2da7e0900
+m
+=src/main/java/com/example/project4lists/DoublyLinkedList.java,f/1/f1c274a57304714c1ce17e34a26e6df8f918b29c
+b
+2src/main/java/com/example/project4lists/Stack.java,e/f/efc5aed0631325b6e5a7586601dcc066309c649e
+b
+2src/main/java/com/example/project4lists/Queue.java,c/4/c45e2f0d36b94025c0fbe6fd5f403474add3af96
