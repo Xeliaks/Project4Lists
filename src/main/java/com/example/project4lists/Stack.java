@@ -33,9 +33,9 @@ public class Stack<T> extends DoublyLinkedList<T> {
         Stack<Integer> stack = new Stack<>();
 
 
-        stack.push(1);
-        stack.push(2);
-        stack.push(3);
+        stack.push(11);
+        stack.push(12);
+        stack.push(13);
         System.out.println("Stack after push: " + stack);
 
 

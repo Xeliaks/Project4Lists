@@ -33,9 +33,9 @@ public class Queue<T> extends DoublyLinkedList<T> {
         Queue<Integer> queue = new Queue<>();
 
 
-        queue.enqueue(1);
-        queue.enqueue(2);
-        queue.enqueue(3);
+        queue.enqueue(11);
+        queue.enqueue(21);
+        queue.enqueue(31);
         System.out.println("Queue after enqueue: " + queue);
 
 

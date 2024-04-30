@@ -7,7 +7,7 @@ public class Part0 {
     public static void main(String[] args) {
         int numElements = 100000;
 
-        // ArrayList
+
         ArrayList<Integer> arrayList = new ArrayList<>();
         long startTime = System.nanoTime();
         for (int i = 0; i < numElements; i++) {
@@ -27,7 +27,7 @@ public class Part0 {
         }
         long arrayListRemovalTime = System.nanoTime() - startTime;
 
-        // LinkedList
+
         LinkedList<Integer> linkedList = new LinkedList<>();
         startTime = System.nanoTime();
         for (int i = 0; i < numElements; i++) {
